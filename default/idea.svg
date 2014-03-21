@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px"
+	 height="20px" viewBox="0 0 22 20" style="enable-background:new 0 0 22 20;" xml:space="preserve">
+<g id="head">
+	<path style="fill:#F7B23F;" d="M11,9C5.444,9,1,12.375,1,18h20C21,12.375,16.555,9,11,9z"/>
+</g>
+<g id="plain_eyes">
+	
+		<ellipse transform="matrix(0.7071 0.7071 -0.7071 0.7071 14.538 -6.0979)" style="fill:#231F20;" cx="14.63" cy="14.5" rx="1.75" ry="1.501"/>
+	
+		<ellipse transform="matrix(-0.7072 0.707 -0.707 -0.7072 22.8345 19.5429)" style="fill:#231F20;" cx="7.37" cy="14.5" rx="1.75" ry="1.499"/>
+</g>
+<g id="Layer_4">
+	<rect x="9" y="8" style="fill:#8E8C8D;" width="4" height="2"/>
+</g>
+<g id="Layer_5">
+	<g>
+		<path style="fill:#FFFFFF;" d="M12.08,7.099c1.258-0.439,2.161-1.629,2.161-3.039c0-1.79-1.452-3.241-3.241-3.241
+			c-1.79,0-3.241,1.452-3.241,3.241c0,1.409,0.903,2.6,2.161,3.039v1.283h2.161V7.099z"/>
+	</g>
+</g>
+<g id="Layer_3">
+	<g>
+		<path d="M13,7.438V11h-1v1h-2v-1H9V7.438C7.812,6.742,7,5.477,7,4c0-2.211,1.789-4,4-4s4,1.789,4,4
+			C15,5.477,14.188,6.742,13,7.438z M12,6.812C13.164,6.406,14,5.305,14,4c0-1.656-1.344-3-3-3S8,2.344,8,4
+			c0,1.305,0.836,2.406,2,2.812V8h2V6.812z M10,9v1h2V9H10z"/>
+	</g>
+</g>
+</svg>

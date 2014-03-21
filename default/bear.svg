@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px"
+	 height="20px" viewBox="0 0 22 20" style="enable-background:new 0 0 22 20;" xml:space="preserve">
+<g id="Layer_8">
+	
+		<ellipse transform="matrix(-0.8864 0.4629 -0.4629 -0.8864 35.1786 10.7976)" style="fill:#D1AC71;" cx="16.265" cy="9.715" rx="2.1" ry="1.67"/>
+	
+		<ellipse transform="matrix(-0.8864 -0.4629 0.4629 -0.8864 6.5669 21.0402)" style="fill:#D1AC71;" cx="5.865" cy="9.714" rx="2.1" ry="1.67"/>
+</g>
+<g id="Layer_5">
+	<ellipse style="fill:#705C3D;" cx="7.854" cy="3" rx="2.146" ry="2"/>
+	<ellipse style="fill:#705C3D;" cx="14.146" cy="3" rx="2.146" ry="2"/>
+	<ellipse style="fill:#D1AC71;" cx="11" cy="5.6" rx="4" ry="3.5"/>
+	<ellipse style="fill:#D1AC71;" cx="11" cy="13.25" rx="5" ry="4.75"/>
+</g>
+<g id="Layer_6">
+	
+		<ellipse transform="matrix(0.8321 -0.5547 0.5547 0.8321 -7.9269 5.8193)" style="fill:#705C3D;" cx="5.646" cy="16" rx="2" ry="3"/>
+	
+		<ellipse transform="matrix(-0.8321 -0.5547 0.5547 -0.8321 21.0853 38.3841)" style="fill:#705C3D;" cx="16.354" cy="16" rx="2" ry="3"/>
+	<circle style="fill:#E8D5B7;" cx="11" cy="14" r="2.5"/>
+	<circle style="fill:#D1AC71;" cx="6" cy="16.498" r="1"/>
+	<circle style="fill:#D1AC71;" cx="16" cy="16.498" r="1"/>
+	<ellipse style="fill:#231F20;" cx="11" cy="6" rx="1" ry="0.75"/>
+	
+		<ellipse transform="matrix(0.7069 0.7073 -0.7073 0.7069 6.6642 -7.4828)" style="fill:#231F20;" cx="12.361" cy="4.3" rx="0.656" ry="0.563"/>
+	
+		<ellipse transform="matrix(-0.7069 0.7073 -0.7073 -0.7069 19.4938 0.5225)" style="fill:#231F20;" cx="9.639" cy="4.3" rx="0.656" ry="0.562"/>
+</g>
+<g id="Layer_9">
+	<path style="fill:#231F20;" d="M11.755,8.01c-0.108,0-0.215-0.021-0.317-0.063C11.259,7.874,11.112,7.743,11,7.563
+		c-0.112,0.179-0.259,0.31-0.437,0.384c-0.34,0.139-0.739,0.041-1.04-0.26c-0.098-0.098-0.098-0.256,0-0.354s0.256-0.098,0.354,0
+		c0.157,0.157,0.342,0.214,0.495,0.151c0.237-0.098,0.378-0.462,0.378-0.975c0-0.138,0.112-0.25,0.25-0.25s0.25,0.112,0.25,0.25
+		c0,0.513,0.142,0.877,0.378,0.976c0.152,0.062,0.336,0.006,0.494-0.151c0.097-0.097,0.255-0.098,0.354,0
+		c0.098,0.098,0.098,0.256,0,0.354C12.266,7.898,12.008,8.01,11.755,8.01z"/>
+</g>
+</svg>

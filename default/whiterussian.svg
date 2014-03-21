@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px"
+	 height="20px" viewBox="0 0 22 20" style="enable-background:new 0 0 22 20;" xml:space="preserve">
+<g id="glass">
+	<path style="fill:#ADD2E0;" d="M19,17.5c0,0.276-0.224,0.5-0.5,0.5h-15C3.224,18,3,17.776,3,17.5v-15C3,2.224,3.224,2,3.5,2h15
+		C18.776,2,19,2.224,19,2.5V17.5z"/>
+</g>
+<g id="white_russian">
+	<path style="fill:#D9BB8A;" d="M4,6v7c0,1.65,1.35,3,3,3h8c1.65,0,3-1.35,3-3V6H4z"/>
+</g>
+<g id="ice_cubes">
+	<path style="opacity:0.5;fill:#F5EEE1;" d="M14.951,9.959c-0.469,0.469-1.228,0.469-1.696,0l-1.697-1.696
+		c-0.469-0.469-0.469-1.229,0-1.697l1.697-1.696c0.469-0.469,1.228-0.47,1.696,0l1.697,1.696c0.469,0.469,0.469,1.229,0,1.697
+		L14.951,9.959z"/>
+	<path style="opacity:0.5;fill:#F5EEE1;" d="M12.862,10.513c-0.151,0.645-0.796,1.046-1.441,0.896l-2.337-0.547
+		C8.438,10.71,8.038,10.065,8.189,9.42l0.546-2.337c0.151-0.646,0.796-1.047,1.441-0.896l2.337,0.547
+		c0.646,0.151,1.046,0.796,0.895,1.441L12.862,10.513z"/>
+</g>
+<g id="glow_1_">
+	<rect x="6" y="2" style="opacity:0.5;fill:#FFFFFF;" width="3" height="16"/>
+</g>
+</svg>
