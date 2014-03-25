@@ -132,7 +132,7 @@ function janneke_new_smilies_init() {
 			':!:' => 'exclaim',
 			':?:' => 'question',
 			'&lt;3' => 'heart',
-			'&gt;-I' => 'martini',
+			'>-I' => 'martini',
 			'|_|' => 'whiterussian',
 			':burrito:' => 'burrito',
 			'O_o' => 'mindblown',
