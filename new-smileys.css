@@ -12,6 +12,15 @@
     min-height: 1.2em;
 }
 
+@-moz-document url-prefix() {
+    .emoji {
+        text-indent: 0;
+        text-align: center;
+        color: rgba(255, 255, 255, 0);
+        overflow: visible;
+    }
+}
+
 .emoji:before {
     position: absolute;
     content: "";
@@ -213,4 +222,13 @@
 .emoji-question:before {
     background-image: url('default/ie/question.png');
     background-image: url('default/question.svg'), none;
+}
+
+@-moz-document url-prefix() {
+    .emoji-rolleyes {
+        letter-spacing: -.2em;}.emoji-oops, .emoji-idea, .emoji-confused {
+            letter-spacing: -.25em;}.emoji-burrito, .emoji-arrow, .emoji-bear, .emoji-star {
+                letter-spacing: -.3em;}.emoji-developer, .emoji-mrgreen {
+                    letter-spacing: -.35em;
+                }
 }
