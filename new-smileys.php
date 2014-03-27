@@ -144,9 +144,12 @@ function janneke_new_smilies_init() {
 			':?:'         => 'question',
 			'&lt;3'       => 'heart',
 			'<3'          => 'heart',
+			':heart:'     => 'heart'
 			'&gt;-I'      => 'martini',
 			'>-I'         => 'martini',
+			':martini:'   => 'martini',
 			'|_|'         => 'whiterussian',
+		':whiterussian:'      => 'whiterussian',
 			':burrito:'   => 'burrito',
 			'O_o'         => 'mindblown',
 			'o_O'         => 'mindblown-alt',
