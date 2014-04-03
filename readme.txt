@@ -14,7 +14,7 @@ Use the new WordPress.com smileys!
 
 WordPress.com just released new smileys, and this plugin will make them available to self hosted WordPress installs.
 
-See Joen's post: http://en.blog.wordpress.com/2014/03/19/new-emoticons/.
+See Joen's post: https://en.blog.wordpress.com/2014/03/21/new-emoticons/.
 And http://jannekevandorpe.com/2014/03/19/secret-new-wordpress-smileys/.
 
 == Changelog ==
