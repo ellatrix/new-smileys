@@ -48,6 +48,7 @@
 
 @media screen and (min-width:0\0) {
     .emoji {
+        height: 1.2em;
         width: 1.38em;
     }
 
@@ -104,6 +105,16 @@
 .emoji-evilgrin:before {
     background-image: url('default/ie/evilgrin.png');
     background-image: url('default/evilgrin.svg'), none;
+}
+
+.emoji-twisted:before {
+    background-image: url('default/ie/twisted.png');
+    background-image: url('default/twisted.svg'), none;
+}
+
+.emoji-evil:before {
+    background-image: url('default/ie/evil.png');
+    background-image: url('default/evil.svg'), none;
 }
 
 .emoji-surprised:before {
@@ -169,6 +180,15 @@
     width: 1.5em;
 }
 
+.emoji-facepalm:before {
+    background-image: url('default/ie/facepalm.png');
+    background-image: url('default/facepalm.svg'), none;
+}
+
+.emoji-facepalm, .emoji-facepalm:before {
+    width: 1.4em;
+}
+
 .emoji-bear:before {
     background-image: url('default/ie/bear.png');
     background-image: url('default/bear.svg'), none;
@@ -224,11 +244,16 @@
     background-image: url('default/question.svg'), none;
 }
 
+.emoji-kitten:before {
+    background-image: url('default/ie/kitten.png');
+    background-image: url('default/kitten.svg'), none;
+}
+
 @-moz-document url-prefix() {
     .emoji-rolleyes {
         letter-spacing: -.2em;}.emoji-oops, .emoji-idea, .emoji-confused {
             letter-spacing: -.25em;}.emoji-burrito, .emoji-arrow, .emoji-bear, .emoji-star {
-                letter-spacing: -.3em;}.emoji-developer, .emoji-mrgreen {
+                letter-spacing: -.3em;}.emoji-developer, .emoji-mrgreen, .emoji-facepalm {
                     letter-spacing: -.35em;
                 }
 }
