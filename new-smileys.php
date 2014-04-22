@@ -90,8 +90,8 @@ function janneke_new_smilies_init() {
 		$wpsmiliestrans = array(
 			':mrgreen:'      => 'mrgreen',
 			':arrow:'        => 'arrow',
-			':twisted:'      => 'evilgrin',
-			':evil:'         => 'evilgrin',
+			':twisted:'      => 'twisted',
+			':evil:'         => 'evil',
 			'&gt;:D'         => 'evilgrin',
 			'>:D'            => 'evilgrin',
 			':idea:'         => 'idea',
@@ -170,7 +170,9 @@ function janneke_new_smilies_init() {
 			':-/'            => 'uneasy',
 			':/'             => 'uneasy',
 			':-\\'           => 'uneasy',
-			':\\'            => 'uneasy'
+			':\\'            => 'uneasy',
+			':facepalm:'     => 'facepalm',
+			'=^-^='          => 'kitten'
 		);
 	}
 
