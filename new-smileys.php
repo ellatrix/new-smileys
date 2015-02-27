@@ -16,8 +16,10 @@ remove_filter( 'the_content', 'convert_smilies' );
 remove_filter( 'the_excerpt', 'convert_smilies' );
 remove_filter( 'comment_text', 'convert_smilies', 20 );
 if(function_exists('bbp_get_reply_content')) {
-    remove_filter( 'bbp_get_reply_content', 'convert_smilies');
-    add_filter( 'bbp_get_reply_content', 'janneke_convert_new_smilies' );
+    remove_filter( 'bbp_get_reply_content', 'convert_smilies', 20);
+    remove_filter( 'bbp_get_topic_content', 'convert_smilies', 20);
+    add_filter( 'bbp_get_reply_content', 'janneke_convert_new_smilies', 20);
+    add_filter( 'bbp_get_topic_content', 'janneke_convert_new_smilies', 20);
 }
 add_filter( 'the_content', 'janneke_convert_new_smilies' );
 add_filter( 'the_excerpt', 'janneke_convert_new_smilies' );
